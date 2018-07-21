@@ -1,0 +1,8 @@
+C:\Users\jangulo\Downloads\treeviewxml_demo\TreeViewXML\bin\Debug\TreeViewXML.exe.config
+C:\Users\jangulo\Downloads\treeviewxml_demo\TreeViewXML\obj\Debug\TreeViewXML.exe
+C:\Users\jangulo\Downloads\treeviewxml_demo\TreeViewXML\obj\Debug\TreeViewXML.pdb
+C:\Users\jangulo\Downloads\treeviewxml_demo\TreeViewXML\bin\Debug\TreeViewXML.exe
+C:\Users\jangulo\Downloads\treeviewxml_demo\TreeViewXML\bin\Debug\TreeViewXML.pdb
+C:\Users\jangulo\Downloads\treeviewxml_demo\TreeViewXML\obj\Debug\TreeViewXML.csprojResolveAssemblyReference.cache
+C:\Users\jangulo\Downloads\treeviewxml_demo\TreeViewXML\obj\Debug\TreeViewXML.Form1.resources
+C:\Users\jangulo\Downloads\treeviewxml_demo\TreeViewXML\obj\Debug\TreeViewXML.csproj.GenerateResource.Cache

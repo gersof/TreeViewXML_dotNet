@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<countries>
+	<country>
+		<name>USA</name>
+		<states>
+			<state>Alabama</state>
+			<state>Alaska</state>
+			<state>Arkansas</state>
+			<state>California</state>
+		</states>
+	</country>
+	<country>
+		<name>Canada</name>
+		<states>
+			<state>Alberta</state>
+			<state>Manitoba</state>
+			<state>Saskatchewan</state>
+			<state>Ontario</state>
+			<state>Quebec</state>
+			<state>British Columbia</state>
+			<state>Yukon</state>
+			<state>Northwest Territories</state>
+		</states>
+	</country>
+</countries>
